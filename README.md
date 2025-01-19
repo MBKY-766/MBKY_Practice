@@ -17,3 +17,7 @@
 5. 按照图书类别分组统计图书的数量（4分）
 五、安全性完成情况（用户创建、角色设置、权限赋予）（20分）
 安全：应设置权限保护，使借阅人员不能修改本人的借阅记录
+![image](https://github.com/user-attachments/assets/2d5c6660-dffb-40ce-b23f-0812d18fe91a)
+![image](https://github.com/user-attachments/assets/8ac3e0c9-49ff-4cee-a5f5-49b07aa94af5)
+![image](https://github.com/user-attachments/assets/b5e43348-abdc-4b9b-9343-5a603f52cb2f)
+![image](https://github.com/user-attachments/assets/345b549a-bdf8-41c2-8d76-7b075a990662)
